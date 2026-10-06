@@ -21,7 +21,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90374137-61b8-4473-8f32-b01b6f11a5bd" name="Changes" comment="" />
+    <list default="true" id="90374137-61b8-4473-8f32-b01b6f11a5bd" name="Changes" comment="This is the first commit." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +31,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../L1_GitIntro/main.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -66,6 +69,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "onboarding.tips.debug.path": "C:/Users/adrianvma29/CLionProjects/L!_GitIntro/main.cpp",
@@ -114,6 +118,10 @@
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
     <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is the first commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="This is the first commit." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
